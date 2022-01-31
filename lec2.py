@@ -19,6 +19,6 @@ this is a regional comment
 #my_int = 321
 #print(my_int)
 
-my_str = ('hello world')
+#my_str = ('hello world')
 
-print(my_str.upper())
+#print(my_str.upper())
