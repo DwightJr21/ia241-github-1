@@ -58,4 +58,6 @@ result = 0
 for word in 'this is my 6th string'.split():
     
   print(word)
+ #print (word)
   result = result + 1
+  
