@@ -1,12 +1,16 @@
-class car:
-    
-    maker = 'toyota'
-    
-    def report_maker(self):
-        
-        return self.maker
-        
-my_car = car()
+if None:
 
-print(my_car.maker)
-print(my_car.report_maker())
+  print (1)
+
+elif '0':
+
+  print (2)
+
+elif '':
+
+  print (3)
+
+else:
+
+  print (4)
+
